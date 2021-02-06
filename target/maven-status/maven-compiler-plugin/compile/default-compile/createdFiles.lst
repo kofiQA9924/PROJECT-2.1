@@ -1,0 +1,7 @@
+com\Guru99_2021\pages\LoginPage.class
+com\Guru99_2021\base\BaseClass.class
+com\Guru99_2021\pages\EditCustomerPage.class
+com\Guru99_2021\utilities\Capture.class
+com\Guru99_2021\pages\NewCustomerPage.class
+com\Guru99_2021\utilities\Reporting.class
+com\Guru99_2021\pages\DeleteCustomerPage.class

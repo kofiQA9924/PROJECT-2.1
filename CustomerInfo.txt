@@ -1,0 +1,73 @@
+
+Customer Registered Successfully!!!
+
+
+Registered Customer details are as follows:
+
+Customer ID	82260
+Customer Name	King Kong
+Gender	        female
+Birthdate	    2021-02-12
+Address	        101 Mainland SouthEast
+City	        Dreamcity
+State	        Kingsstate
+Pin	            487204
+Mobile No.	    8424927492
+Email	        kingkong@yahoo.com
+Pin             487204
+Password        #15464
+
+
+
+Customer Registered Successfully!!!
+
+
+Registered Customer details are as follows:
+
+Customer ID	14158
+Customer Name	Daniella Ventra
+Gender	        female
+Birthdate	    1978-09-09
+Address	        911 Royal Street
+City	        Highcity
+State	        Queensstate
+Pin	            586931
+Mobile No.	    4438257205
+Email	        DanielaV@yahoo.com
+Password        #+_^5
+
+
+
+
+Customer Registered Successfully!!!
+
+
+Registered Customer details are as follows:
+
+Customer ID	24172
+Customer Name	Chris Greens
+Gender	        male
+Birthdate	    1999-04-12
+Address	        190 Kings Lane
+City	        Newtown
+State	        Weststate
+Pin	            485933
+Mobile No.	    4634046492
+Email	        chrisG@aol.com
+password        !fj9~
+
+
+
+Registered Customer details are as follows:
+
+Customer ID	    6769
+Customer Name	Thomas Mikes
+Gender	        male
+Birthdate	    01-07-20
+Address	        200 St Main
+City	        Canyontown
+State	        Northstate
+Pin	            382649
+Mobile No.	    2237027462
+Email	        MK@aol.com
+Password        %749)

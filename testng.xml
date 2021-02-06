@@ -1,0 +1,16 @@
+<suite name="Banking2.1">
+    <test name="Banking2.1 Test">
+        <classes>
+            <class name="com.Guru99_2021.testCases.LoginPageTest"/>
+            <class name="com.Guru99_2021.testCases.DeleteCustomerPageTest"/>
+            <class name="com.Guru99_2021.testCases.LoginPageTest"/>
+            <class name="com.Guru99_2021.testCases.NewCustomerPageTest"/>
+        </classes>
+
+    </test>
+    <Listeners>
+        <Listener name="com.Guru99_2021.utilities.Reporting">
+        </Listener>
+    </Listeners>
+
+</suite>
